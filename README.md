@@ -106,7 +106,11 @@ simCase | Description | Width Distribution | Height Distribution
 
 ## Citation
 
-Please use this reference when citing the software or the publication the software supports:
+Please use this DOI number reference when citing the software:
+
+<a href="https://doi.org/10.5281/zenodo.3727764"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3727764.svg" alt="DOI"></a>
+
+Use this citation for the associated white paper:
 
 <details> <summary> A. Weinert, L. Alvarez, M. Owen and B. Zintak, “A Quantitatively Derived NMAC Analog for Smaller Unmanned Aircraft Systems Based on Unmitigated Collision Risk,” 2020.</summary>
 <p>
@@ -115,6 +119,8 @@ Please use this reference when citing the software or the publication the softwa
 @inproceedings{weinertsNMAC2020,
 	title = {A Quantitatively Derived NMAC Analog for Smaller Unmanned Aircraft Systems Based on Unmitigated Collision Risk,
 	language = {en},
+	doi = {10.5281/zenodo.3727764},
+	url = {https://doi.org/10.5281/zenodo.3727764},
 	author = {Weinert, Andrew and Alvarez, Luis and Owen, Michael and Zintak, Benjamin},
 	year = {2020},
 }
